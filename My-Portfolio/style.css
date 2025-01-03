@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    /* border-color: rgb(164, 164, 200); */
+    background-color: rgb(10, 30, 69);
+    width: 100%;
+    padding:20px 40px;
+    display: flex;
+    /* border: 1px solid rgb(25, 161, 43); */
+    justify-content: space-between;
+    
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+nav a{
+    margin: 0 10px;
+}
