@@ -20,3 +20,12 @@ header a{
 nav a{
     margin: 0 10px;
 }
+
+main{
+    border: 1px solid black;
+    /* display: flex; */
+}
+main img{
+    float: right;
+    height: 600px;
+}
