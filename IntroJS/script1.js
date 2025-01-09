@@ -36,3 +36,37 @@
 
 // Conditional Statement
 
+// if, else if, else
+// let a=5;
+// if( a == 1){
+//     console.log(a);
+// }
+// else if(a==2){
+//     console.log(b);
+// }
+// else if(a==3){
+//     console.log(c);
+// }
+// else if(a==4){
+//     console.log(d);
+// }
+// else{
+//     console.log(e);
+// }
+
+// answer is (e)
+
+// swicth
+
+let num=5;
+switch(num){
+    case 1: console.log('a'); 
+    break;
+    case 2: console.log('b');
+    break; 
+    case 3: console.log('c'); 
+    break;
+    case 4: console.log('d'); 
+    break;
+    default : console.log('e'); 
+}
