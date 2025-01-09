@@ -20,3 +20,19 @@
 // Data types > types of data 
     // primitive data types => Number, Null, symbol, string, bigint, boolean, undefined
     // Non- primitive Datatypes => Object, Arrays
+
+
+
+// Operators and conditional statement 
+// Operators are used to perform operation
+
+// Types of operators:.
+// Arithmatic =>{+,-,*,/,%,**,++,--}
+// Assignment =>{+=,-=,*=, etc}
+// comparison   =>{>,<,>=,<=,==,!=,===,!==}
+// logical =>{&&,||,!}
+// Bitwise  =>{&,|,!,^,~,>>,<<}
+// Ternary =>{?,:}
+
+// Conditional Statement
+
