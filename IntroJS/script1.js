@@ -82,4 +82,22 @@
 // }
 // ans is print 10 times javascript
 
+// break condintion in loop
 
+// for(let i=1 ; i<=6; i++){
+//     if(i==4){
+//         break;
+//     }
+//     console.log(i)
+// }
+// ans is 1,2,3 bcz break condition do not allow to print == to 4 thats why print only ,1 ,2 ,3
+
+//continue condition in loop
+
+// for(let i=1;i<=6;i++){
+//     if(i==4){
+//         continue;
+//     }
+//     console.log(i)
+// }
+// // answer is 1,2,3,5,6 skip 4 
