@@ -58,15 +58,28 @@
 
 // swicth
 
-let num=5;
-switch(num){
-    case 1: console.log('a'); 
-    break;
-    case 2: console.log('b');
-    break; 
-    case 3: console.log('c'); 
-    break;
-    case 4: console.log('d'); 
-    break;
-    default : console.log('e'); 
-}
+// let num=5;
+// switch(num){
+//     case 1: console.log('a'); 
+//     break;
+//     case 2: console.log('b');
+//     break; 
+//     case 3: console.log('c'); 
+//     break;
+//     case 4: console.log('d'); 
+//     break;
+//     default : console.log('e'); 
+// }
+
+
+
+//////////////////////////////////////////////////////////////////////////////////
+
+// loops and strings
+
+// for(let i =0 ; i<=10 ; i++){
+//     console.log(javascript);
+// }
+// ans is print 10 times javascript
+
+
