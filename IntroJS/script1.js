@@ -101,3 +101,28 @@
 //     console.log(i)
 // }
 // // answer is 1,2,3,5,6 skip 4 
+
+
+// strings in javascript
+// let firstName = "sobaan";
+// console.log(firstName);
+
+// concatinate strings
+// let firstName = "sobaan";
+// let lastName = "qureshi";
+// let fullName = firstName + " " + lastName;
+
+// console.log(fullName);
+
+// //Output :sobaan qureshi
+
+// ```template literals in string
+// let number1 = 10;
+// let number2 = 20;
+
+// let sum = number1 + number2;
+
+// // console.log(`The sum of ${number1} + ${number2} is equal to ${sum}`);
+// console.log(`the sum of ${number1}+${number2} is equal to ${sum}`);
+
+//Output : The sum of 10 + 20 is equal to 30
